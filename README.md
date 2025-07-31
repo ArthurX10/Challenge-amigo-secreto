@@ -23,3 +23,6 @@ https://github.com/user-attachments/assets/58d6e5c1-63f4-40b7-a2a9-41b57256828f
 Este projeto foi desenvolvido como parte da formação Iniciante em Programação no programa Oracle Next Education (ONE), promovido pela Oracle em parceria com a Alura.
 O objetivo foi aplicar conceitos de lógica de programação, manipulação de arrays, funções e interação com o DOM em JavaScript.
 Desenvolvido durante o programa ONE | Alura + Oracle
+
+
+Codigo no Versel: https://challengeamigosecreto-git-main-arthurx10s-projects.vercel.app
