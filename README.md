@@ -1,4 +1,5 @@
 🎁 Challenge Amigo Secreto
+
 Este é um projeto desenvolvido durante o programa Oracle Next Education (ONE), uma iniciativa da Oracle em parceria com a Alura, com o objetivo de capacitar novos talentos em tecnologia.
 O projeto consiste em uma aplicação simples de sorteio de amigo secreto, utilizando apenas HTML, CSS e JavaScript puro.
 
