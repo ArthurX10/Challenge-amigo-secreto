@@ -4,12 +4,12 @@ Este é um projeto desenvolvido durante o programa Oracle Next Education (ONE), 
 O projeto consiste em uma aplicação simples de sorteio de amigo secreto, utilizando apenas HTML, CSS e JavaScript puro.
 
 🔧 Funcionalidades
-✅ Cadastro de amigos.
-✅ Exibição da lista de amigos cadastrados.
-✅ Sorteio aleatório de um amigo da lista.
-✅ Evita sorteios repetidos, removendo o nome sorteado da lista.
-✅ Mensagem final indicando que todos os amigos foram sorteados.
-✅ Interface intuitiva e responsiva.
+✅ Cadastro de amigos.  
+✅ Exibição da lista de amigos cadastrados.   
+✅ Sorteio aleatório de um amigo da lista.  
+✅ Evita sorteios repetidos, removendo o nome sorteado da lista.  
+✅ Mensagem final indicando que todos os amigos foram sorteados.  
+✅ Interface intuitiva e responsiva.  
 
 
 
